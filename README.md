@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ceumartins
-- :mortar_board: I'm graduated in INDUSTRIAL DESIGN and studied HTML WEB DEVELOPER.
-- :bulb: I’m interested in PRODUCT DESIGN, FULLSTACK DEVELOPMENT, DATA ENGINEERING, UX/UI DESIGN.
-- :computer: I’m currently learning about FULLSTACK DEVELOPMENT and DATA ENGINEERING.
-- :hammer: I’m looking to collaborate on projects with HTML, CSS and JAVASCRIPT.
+- :mortar_board: I'm graduated in INDUSTRIAL DESIGN and studied HTML WEB DEVELOPER and FULLSTACK.
+- :bulb: I’m interested in PRODUCT DESIGN, FULLSTACK DEVELOPMENT, MARKETING and UX/UI DESIGN.
+- :computer: I’m currently learning about FULLSTACK DEVELOPMENT.
+- :hammer: I’m looking to collaborate on projects with HTML, CSS, JAVASCRIPT and REACT.
 - :e-mail: How to reach me:
 
 :small_blue_diamond: Discord: ceumartins#3115
